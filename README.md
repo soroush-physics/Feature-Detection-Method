@@ -1,4 +1,4 @@
-# Specgrid Processor
+# Feature dectection method
 
 **Author:** Dr. Soroush Arabi  
 
