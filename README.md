@@ -3,7 +3,7 @@
 **Author:** Dr. Soroush Arabi  
 
 ## Overview
-**Specgrid Processor** is a Python-based analysis tool for processing and visualizing spectroscopy grid data in the Nanonis `.3ds` format, typically acquired in scanning probe microscopy experiments.  
+**Feature dectection method** is a Python-based analysis tool for processing and visualizing spectroscopy grid data in the Nanonis `.3ds` format, typically acquired in scanning probe microscopy experiments.  
 It provides advanced data filtering, automated peak detection, high-quality visualizations of peak distributions, and convenient export of processed data for further quantitative analysis.
 
 ---
